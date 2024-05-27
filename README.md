@@ -9,6 +9,4 @@ Feel free to explore the project, raise issues, and contribute. Let's build some
 
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/huynhphucnguyennguyen/) or follow my work on [GitHub](https://github.com/mcnguyen963).
 
-Happy coding!
-
 Nick Nguyen
