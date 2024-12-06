@@ -1,5 +1,5 @@
 # Nick Nguyen
-👋 Hi I am Nick, a final year Software Engineer student at Monash University. With a strong background in software development and a passion for creating efficient, scalable, and user-friendly applications, I have had the privilege of working on a variety of projects that leverage cutting-edge technologies.
+👋 Hi I am Nick, a graduate Software Engineer student at Monash University. With a strong background in software development and a passion for creating efficient, scalable, and user-friendly applications, I have had the privilege of working on a variety of projects that leverage cutting-edge technologies.
 
 💼  At Monash, I am involved in both research and development, where I collaborate with a talented team of engineers and researchers to build innovative solutions that drive progress and make an impact. My expertise spans across various domains, including web development, database management, and cloud computing (Azure, AWS and Superbase).
 
